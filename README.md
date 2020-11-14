@@ -37,12 +37,13 @@ The idea list is reviewed every 15 days with contributors  on our Zulip channel 
 Invite link to Zulip Channel : [https://owof.zulipchat.com/join/6y56o2rpnmiudbjdbryrhchi/](https://owof.zulipchat.com/join/6y56o2rpnmiudbjdbryrhchi/)
 
 ### Ongoing Projects.
+1. Text document to Braille document converter. [https://github.com/One-World-One-Family/text-to-braille-conversion](https://github.com/One-World-One-Family/text-to-braille-conversion)
 
 ### Ideas
 
-1. Text document to Braille document converter. 
-2. Source code scanner to filter out non inclusive and racist words from source code.
-3. Realtime sign language to subtitles converter for video conferences. 
+
+1. Source code scanner to filter out non inclusive and racist words from source code.
+2. Realtime sign language to subtitles converter for video conferences. 
 
 ### Mantainers
 
