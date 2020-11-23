@@ -38,12 +38,11 @@ Invite link to Zulip Channel : [https://owof.zulipchat.com/join/6y56o2rpnmiudbjd
 
 ### Ongoing Projects.
 1. Text document to Braille document converter. [https://github.com/One-World-One-Family/text-to-braille-conversion](https://github.com/One-World-One-Family/text-to-braille-conversion)
+2. Source code scanner to filter out non inclusive and racist words from source code. [https://github.com/One-World-One-Family/Non-Inclusive-Word-Filterer](https://github.com/One-World-One-Family/Non-Inclusive-Word-Filterer)
 
 ### Ideas
 
-
-1. Source code scanner to filter out non inclusive and racist words from source code.
-2. Realtime sign language to subtitles converter for video conferences. 
+1. Realtime sign language to subtitles converter for video conferences. 
 
 ### Mantainers
 
